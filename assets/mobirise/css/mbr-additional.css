@@ -1823,6 +1823,131 @@ body {
     width: 100% !important;
   }
 }
+.cid-rcZmvkKV8Z {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rcZmvkKV8Z .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rcZmvkKV8Z .section-text {
+  padding: 2rem 0;
+}
+.cid-rcZmvkKV8Z .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rcZmvkKV8Z .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rcZp6BcVoR {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #000000;
+}
+.cid-rcZp6BcVoR .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
+  color: #ffffff;
+}
+.cid-rcZp6BcVoR .mbr-author-name {
+  font-weight: bold;
+}
+.cid-rcZp6BcVoR .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+.cid-rcZp6YX02F {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #f3f4f6;
+}
+.cid-rcZp6YX02F .testimonial-text {
+  font-style: italic;
+  color: #676767;
+  font-weight: 300;
+}
+.cid-rcZp6YX02F .mbr-author-name {
+  font-weight: bold;
+  color: #232;
+}
+.cid-rcZp6YX02F .mbr-author-desc {
+  color: #232;
+}
+.cid-rcZmYUfEF8 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #2e2e2e;
+}
+@media (max-width: 767px) {
+  .cid-rcZmYUfEF8 .content {
+    text-align: center;
+  }
+  .cid-rcZmYUfEF8 .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rcZmYUfEF8 .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-rcZmYUfEF8 .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-rcZmYUfEF8 .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-rcZmYUfEF8 .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rcZmYUfEF8 .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-rcZmYUfEF8 .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.cid-rcZmYUfEF8 .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-rcZmYUfEF8 .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rcZmYUfEF8 .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rcZmYUfEF8 .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rcZmYUfEF8 .footer-lower .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
 .cid-rcZdZMMRN6 {
   background-image: url("../../../assets/images/background-opera-speeddials-community-web-simple-backgrounds-1-1920x1200.jpg");
 }
@@ -1932,4 +2057,13 @@ body {
 }
 .cid-rcZijjBfYS H3 {
   color: #ffffff;
+}
+.cid-rcZm1cq9j7 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rcZm1cq9j7 .mbr-text,
+.cid-rcZm1cq9j7 blockquote {
+  color: #767676;
 }
