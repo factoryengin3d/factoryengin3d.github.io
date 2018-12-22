@@ -1981,25 +1981,6 @@ body {
 }
 .cid-rcZdg6M1M8 .counter-container ul li {
   margin-bottom: 1rem;
-  list-style: none;
-}
-.cid-rcZdg6M1M8 .counter-container ul li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  padding-top: 3px;
-  content: '';
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 20px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #149dcc;
-  width: 25px;
-  height: 25px;
-  border-radius: 50%;
-  content: '✓';
 }
 .cid-rcZdtLuzZi {
   padding-top: 90px;
