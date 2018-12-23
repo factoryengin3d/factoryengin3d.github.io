@@ -588,8 +588,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-#scrollToTop a {
-  border-radius: 100px;
+.scrollToTop_wraper {
+  display: none;
 }
 #scrollToTop a i:before {
   content: '';
@@ -1773,8 +1773,24 @@ body {
 .cid-rd2HG81BRM .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-rcYIHCLVaI {
+.cid-rd4xaUKJSG {
   background-image: url("../../../assets/images/particles-wallpapers-hd-895x528.png");
+}
+.cid-rd4xaUKJSG .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rd4xaUKJSG .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-rd4xaUKJSG .mbr-figure img {
+    width: 100% !important;
+  }
 }
 .cid-rcYMx8BF0T {
   padding-top: 60px;
@@ -1835,7 +1851,7 @@ body {
 .cid-rd2CFLbFqZ {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #cccccc;
+  background-color: #efefef;
 }
 .cid-rd2CFLbFqZ .mbr-text,
 .cid-rd2CFLbFqZ blockquote {
@@ -1844,11 +1860,11 @@ body {
 .cid-rcZbTPH9nW {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #cccccc;
+  background-color: #efefef;
 }
 .cid-rcZbTPH9nW .line {
-  background-color: #232323;
-  color: #232323;
+  background-color: #149dcc;
+  color: #149dcc;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -1856,6 +1872,7 @@ body {
 .cid-rcZbTPH9nW .section-text {
   padding: 2rem 0;
   color: #232323;
+  text-align: center;
 }
 .cid-rcZbTPH9nW .inner-container {
   margin: 0 auto;
@@ -1903,24 +1920,31 @@ body {
 .cid-rcZp6BcVoR {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #000000;
+  background-color: #efefef;
 }
 .cid-rcZp6BcVoR .testimonial-text {
   font-style: italic;
   font-weight: 300;
-  color: #ffffff;
+  color: #232323;
 }
 .cid-rcZp6BcVoR .mbr-author-name {
   font-weight: bold;
+  color: #232323;
 }
 .cid-rcZp6BcVoR .media-container-row {
   word-wrap: break-word;
   word-break: break-word;
 }
+.cid-rcZp6BcVoR .testimonial-text SPAN {
+  color: #232323;
+}
+.cid-rcZp6BcVoR .mbr-author-desc {
+  color: #232323;
+}
 .cid-rcZp6YX02F {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #f3f4f6;
+  background-color: #ffffff;
 }
 .cid-rcZp6YX02F .testimonial-text {
   font-style: italic;
