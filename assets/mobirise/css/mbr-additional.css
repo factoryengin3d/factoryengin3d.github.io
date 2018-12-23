@@ -2958,7 +2958,7 @@ body {
   text-align: left;
 }
 .cid-rd2ID9lZ3o {
-  padding-top: 15px;
+  padding-top: 60px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -3006,7 +3006,7 @@ body {
   color: #767676;
 }
 .cid-rd2MltR8Ap {
-  padding-top: 60px;
+  padding-top: 0px;
   padding-bottom: 60px;
   background-color: #efefef;
 }
@@ -3015,7 +3015,7 @@ body {
   text-align: left;
 }
 .cid-rd2MC8msCL {
-  padding-top: 90px;
+  padding-top: 60px;
   padding-bottom: 90px;
   background-color: #efefef;
 }
@@ -3036,7 +3036,7 @@ body {
 }
 .cid-rd34LPpTSq {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rd34LPpTSq .mbr-section-subtitle {
@@ -3133,5 +3133,88 @@ body {
 }
 .cid-rd3aoT86x4 .mbr-text,
 .cid-rd3aoT86x4 blockquote {
+  color: #767676;
+}
+.cid-rd3dqhlA1X {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rd3dqhlA1X .mbr-section-subtitle {
+  color: #767676;
+  text-align: left;
+}
+.cid-rd3g5F9oZp {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rd3g5F9oZp .mbr-text,
+.cid-rd3g5F9oZp blockquote {
+  color: #767676;
+}
+.cid-rd3g46JwB8 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rd3g46JwB8 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rd3g46JwB8 .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rd3g46JwB8 .mbr-text {
+  color: #767676;
+}
+.cid-rd3g69Q0wD {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rd3g69Q0wD .mbr-text,
+.cid-rd3g69Q0wD blockquote {
+  color: #767676;
+}
+.cid-rd3lJZzl6i {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-rd3lJZzl6i .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rd3q3cOBZo {
+  background: #efefef;
+  padding-top: 60px;
+  padding-bottom: 0px;
+}
+.cid-rd3q3cOBZo .image-block {
+  margin: auto;
+}
+.cid-rd3q3cOBZo figcaption {
+  position: relative;
+}
+.cid-rd3q3cOBZo figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rd3q3cOBZo .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rd3iL9Pro1 {
+  padding-top: 15px;
+  padding-bottom: 60px;
+  background-color: #efefef;
+}
+.cid-rd3iL9Pro1 .mbr-text,
+.cid-rd3iL9Pro1 blockquote {
   color: #767676;
 }
