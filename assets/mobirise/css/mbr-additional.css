@@ -2417,20 +2417,6 @@ body {
 .cid-rcZdZMMRN6 P {
   color: #232323;
 }
-.cid-rcZdg6M1M8 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rcZdg6M1M8 .counter-container {
-  color: #767676;
-}
-.cid-rcZdg6M1M8 .counter-container ul {
-  margin-bottom: 0;
-}
-.cid-rcZdg6M1M8 .counter-container ul li {
-  margin-bottom: 1rem;
-}
 .cid-rcZdtLuzZi {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2527,6 +2513,40 @@ body {
   transition: box-shadow 0.3s;
 }
 .cid-rcZC1oyyBa .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-rd4r9BAGQz {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-rd4r9BAGQz .card-box {
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.cid-rd4r9BAGQz h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rd4r9BAGQz p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rd4r9BAGQz .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rd4r9BAGQz .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-rd4r9BAGQz .card-img {
   position: absolute;
   top: 0;
   left: 0;
