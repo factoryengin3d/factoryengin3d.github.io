@@ -1848,10 +1848,58 @@ body {
   border-radius: 50%;
   content: '✓';
 }
-.cid-rd2CFLbFqZ {
+.cid-rd2EVPHGyh {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #efefef;
+}
+.cid-rd2EVPHGyh .mbr-text,
+.cid-rd2EVPHGyh blockquote {
+  color: #767676;
+}
+.cid-rd2EVPHGyh .mbr-text {
+  color: #232323;
+}
+.cid-rd55NeVxnM {
+  background: #efefef;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rd55NeVxnM .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rd55NeVxnM .video-block {
+    width: 100% !important;
+  }
+}
+.cid-rcZmvkKV8Z {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+.cid-rcZmvkKV8Z .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rcZmvkKV8Z .section-text {
+  padding: 2rem 0;
+}
+.cid-rcZmvkKV8Z .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rcZmvkKV8Z .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rd2CFLbFqZ {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
 .cid-rd2CFLbFqZ .mbr-text,
 .cid-rd2CFLbFqZ blockquote {
@@ -1860,7 +1908,7 @@ body {
 .cid-rcZbTPH9nW {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-rcZbTPH9nW .line {
   background-color: #149dcc;
@@ -1879,54 +1927,6 @@ body {
 }
 @media (max-width: 768px) {
   .cid-rcZbTPH9nW .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-rd2EVPHGyh {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rd2EVPHGyh .mbr-text,
-.cid-rd2EVPHGyh blockquote {
-  color: #767676;
-}
-.cid-rd2EVPHGyh .mbr-text {
-  color: #232323;
-}
-.cid-rd55NeVxnM {
-  background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-.cid-rd55NeVxnM .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-rd55NeVxnM .video-block {
-    width: 100% !important;
-  }
-}
-.cid-rcZmvkKV8Z {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-rcZmvkKV8Z .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rcZmvkKV8Z .section-text {
-  padding: 2rem 0;
-}
-.cid-rcZmvkKV8Z .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rcZmvkKV8Z .inner-container {
     width: 100% !important;
   }
 }
